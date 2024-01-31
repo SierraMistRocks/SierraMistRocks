@@ -4,7 +4,7 @@
  
  👀 I’m interested in:
  - urban farming
-![Keep Growing Detroit](/images/Keep_Growing_Detroit.png)
+![Keep Growing Detroit](/Keep_Growing_Detroit.png)
  - art (visual and auditory)
  
  - languages
